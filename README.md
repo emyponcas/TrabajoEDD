@@ -14,3 +14,7 @@ Si quereis tambien podeis crear nuevas ramas dentro del repositorio y trabajad e
 Muchas suerte chaval@s 😎. 
 
 ![image](https://github.com/user-attachments/assets/05b901ce-3210-4713-a83e-abd32833c3a1)
+
+CEO: Jose Luis Marmol
+CO-CEO: Anderson Olivos
+Director: Nico Duran
