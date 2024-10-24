@@ -1,12 +1,12 @@
-#🏆PRÁCTICA ENTORNO DE DESARROLLO🏆
+# 🏆PRÁCTICA ENTORNO DE DESARROLLO🏆
 
-##Explicacion📚
+## Explicacion📚
 
 Clonar el repositorio en vuestro ordenador.
 Modificad el fichero "Lista_barbacoa.py" como querais, anadid nuevos elementos o eliminadlos, literalmente lo que querais.
 Si quereis tambien podeis crear nuevas ramas dentro del repositorio y trabajad en la rama que querais y despues fusionarlas, o no, como querais.
 
-##Intencion del repositorio👀
+## Intencion del repositorio👀
 
 - Cargarnos el repositorio.
 - Aprender de los errores.
