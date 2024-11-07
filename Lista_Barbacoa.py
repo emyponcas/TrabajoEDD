@@ -1,7 +1,8 @@
 lista_barbacoa = {
-    "comida":["salchicha", "chuletas"],
+    "comida":["salchicha", "chuletas","salchichón"],
     "bebida":["cocacola", "fanta naranja"],
     "cubata":["whisky_solo", "ginebra y limón"],
-    "droga":["marihuana","dmt"],
-    "carbon":["encendedor","gas"] 
+
+    "carbon":["encendedor","gas"],
+    "herramientas":["cuchillo"]
 }
