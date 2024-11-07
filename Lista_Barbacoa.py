@@ -3,5 +3,6 @@ lista_barbacoa = {
     "bebida":["cocacola", "fanta naranja"],
     "cubata":["whisky_solo", "ginebra y limón"],
     "carbon":["encendedor","gas"],
-    "herramientas":["cuchillo"]
+    "herramientas":["cuchillo"],
+    "Juegos":["Cartas"]
 }
